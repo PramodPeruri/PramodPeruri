@@ -155,8 +155,12 @@ Configuration Management
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PramodPeruri&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramodPeruri&layout=compact&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PramodPeruri&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PramodPeruri&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PramodPeruri&theme=github_dark" />
 </p>
 
 ---
