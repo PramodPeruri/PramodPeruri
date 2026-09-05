@@ -152,14 +152,11 @@ Configuration Management
 
 ---
 
-## 📈 GitHub Activity
+## 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://github.com/PramodPeruri">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PramodPeruri&theme=github-compact&hide_border=true" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=PramodPeruri&theme=github-dark&hide_border=true" />
 </p>
-
 
 ---
 
@@ -169,12 +166,9 @@ Configuration Management
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PramodPeruri&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PramodPeruri&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PramodPeruri&theme=github_dark" />
-</p>
-
 ---
+
+
 
 ## 🤝 Let's Connect
 
