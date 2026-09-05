@@ -152,6 +152,17 @@ Configuration Management
 
 ---
 
+## 📈 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/PramodPeruri">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PramodPeruri&theme=github-compact&hide_border=true" />
+  </a>
+</p>
+
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
