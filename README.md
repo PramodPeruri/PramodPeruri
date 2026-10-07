@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Pramod Peruri
 
-### DevOps Engineer | AWS | Terraform | Ansible | Linux | Cloud Infrastructure
+### DevOps Enthusiast | AWS | Terraform | Ansible | Linux | Cloud Infrastructure
 
-🚀 DevOps & Cloud Engineer | AWS | Terraform | Ansible | Linux | Git | GitHub
+🚀 DevOps & Cloud Enthusiast | AWS | Terraform | Ansible | Linux | Git | GitHub
 
 ---
 
